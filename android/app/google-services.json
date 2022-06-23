@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833000412208",
+    "project_id": "haggle-bd1",
+    "storage_bucket": "haggle-bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833000412208:android:7471b79403b4cc28c949f5",
+        "android_client_info": {
+          "package_name": "com.sadia.haggle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833000412208-feic3k84gtrbsthe97tua03gth121dt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadia.haggle",
+            "certificate_hash": "0dd404c0007ec98eee146f78895422d970d5d506"
+          }
+        },
+        {
+          "client_id": "833000412208-el880uusi06s022641p2711dr8ksbt24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6gbej85UgwcZOmrR8sZqnkTdphzDirY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833000412208-el880uusi06s022641p2711dr8ksbt24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
